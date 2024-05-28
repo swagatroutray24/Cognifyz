@@ -1,5 +1,3 @@
-#Level 2 Task 3
-
 def checkPassword(password):
     upperCharacters, lowerCharacters, specialCharacters,digits,length = 0, 0, 0, 0, 0
     length = len(password)
