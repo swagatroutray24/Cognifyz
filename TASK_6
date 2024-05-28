@@ -12,4 +12,4 @@ while True:
         print("Congratulations")
         print("You guessed it in ",nguesses," attempts")
         break
-    nguesses += 1
+    nguesses += 1 
